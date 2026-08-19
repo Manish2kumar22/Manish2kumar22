@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a B.Tech graduate in Computer Science and Engineering with a specialization in Cyber Security. I have built academic and personal projects across **web development, Android applications, cloud security, AI/ML, and database-driven applications**.
 
@@ -30,7 +30,7 @@ I enjoy building practical applications, learning new technologies, and solving 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming
 
@@ -50,7 +50,7 @@ I enjoy building practical applications, learning new technologies, and solving 
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools"/>
 
 ### Cloud
 
@@ -70,14 +70,14 @@ I enjoy building practical applications, learning new technologies, and solving 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-### 🤖 AI-Driven Inspection System
+### AI-Driven Inspection System
 
 **YOLOv5 · Computer Vision**
 
@@ -101,7 +101,7 @@ AI-driven inspection system using YOLOv5 for object detection and automated visu
 
 <td width="33%" valign="top">
 
-### 🍱 Food Waste Management System
+### Food Waste Management System
 
 **Android · Firebase**
 
@@ -125,7 +125,7 @@ Android application connecting food donors, NGOs, and volunteers to coordinate f
 
 <td width="33%" valign="top">
 
-### 🔐 Secure File Storage
+### Secure File Storage
 
 **Hybrid Cryptography**
 
@@ -154,14 +154,14 @@ Cloud-based file storage application using AES and RSA to provide secure file en
 
 ---
 
-## 📂 Other Projects
+## Other Projects
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-### 🧠 Melanoma Detection
+### Melanoma Detection
 
 Deep learning-based image classification project using transfer learning.
 
@@ -178,7 +178,7 @@ Deep learning-based image classification project using transfer learning.
 
 <td width="33%" valign="top">
 
-### 🛒 Amazon Clone
+### Amazon Clone
 
 Frontend web development project inspired by an e-commerce website layout.
 
@@ -198,7 +198,7 @@ Frontend web development project inspired by an e-commerce website layout.
 
 <td width="33%" valign="top">
 
-### 🛡️ Guard Tour System
+### Guard Tour System
 
 Software project focused on managing and monitoring security guard tour activities.
 
@@ -209,7 +209,7 @@ Software project focused on managing and monitoring security guard tour activiti
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -223,9 +223,7 @@ Software project focused on managing and monitoring security guard tour activiti
 
 </div>
 
----
-
-## 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
 
@@ -233,11 +231,11 @@ Software project focused on managing and monitoring security guard tour activiti
 
 </div>
 
-> **Note:** The Contribution Snake requires the GitHub Action to be configured in this profile repository before the animation will appear.
+<sub>Note: this animation renders once the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action is configured on this repository to generate and publish the SVG to the `output` branch.</sub>
 
 ---
 
-## 🎯 Currently Learning
+## Currently Learning
 
 <div align="center">
 
@@ -252,30 +250,16 @@ Software project focused on managing and monitoring security guard tour activiti
 
 ---
 
-## 🏆 Certifications & Achievements
+## Certifications & Achievements
 
-* **Salesforce Certified Agentforce Specialist**
-* **HackerRank Certification — Java**
-* **HackerRank Certification — SQL**
-* **Cyber Security learning and certification experience**
-
----
-
-## 💡 What I Do
-
-* Full Stack Web Development
-* Python & Java Development
-* Web & Android Development
-* Firebase Applications
-* REST APIs
-* Database Development
-* Cloud Deployment
-* Cyber Security
-* AI / Machine Learning
+* Salesforce Certified Agentforce Specialist
+* HackerRank Certification — Java
+* HackerRank Certification — SQL
+* Cyber Security learning and certification experience
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -293,7 +277,7 @@ Software project focused on managing and monitoring security guard tour activiti
 
 <br/><br/>
 
-📧 **[bhimanpallymanish@gmail.com](mailto:bhimanpallymanish@gmail.com)**
+<img src="https://komarev.com/ghpvc/?username=Manish2kumar22&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
